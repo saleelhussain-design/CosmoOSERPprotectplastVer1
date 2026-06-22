@@ -1,18 +1,17 @@
 /* COSMOS Branding Overrides */
 .navbar-brand .app-logo {
-    content: url("/assets/cosmos_core/images/cosmos-logo.svg") !important;
+    content: url("/assets/cosmos_core/images/cosmos-logo.png") !important;
 }
 .brand-logo img {
-    content: url("/assets/cosmos_core/images/cosmos-logo.svg") !important;
+    content: url("/assets/cosmos_core/images/cosmos-logo.png") !important;
 }
 .module-category img {
-    content: url("/assets/cosmos_core/images/cosmos-icon.svg") !important;
+    content: url("/assets/cosmos_core/images/cosmos-icon.png") !important;
 }
 /* Hide Frappe branding text */
 .navbar-brand > span:not(.app-logo) {
     display: none !important;
 }
-/* Global font family */
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }

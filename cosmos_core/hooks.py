@@ -6,10 +6,10 @@ app_email = "saleelhussain@gmail.com"
 app_license = "gpl-2.0"
 
 # Branding
-app_logo_url = "/assets/cosmos_core/images/cosmos-logo.svg"
-app_icon = "/assets/cosmos_core/images/cosmos-icon.svg"
-app_splash = "/assets/cosmos_core/images/cosmos-logo.svg"
-app_email_splash = "/assets/cosmos_core/images/cosmos-logo.svg"
+app_logo_url = "/assets/cosmos_core/images/cosmos-logo.png"
+app_icon = "/assets/cosmos_core/images/cosmos-icon.png"
+app_splash = "/assets/cosmos_core/images/cosmos-logo.png"
+app_email_splash = "/assets/cosmos_core/images/cosmos-logo.png"
 
 # Replace Frappe brand everywhere
 app_include_css = "/assets/cosmos_core/css/cosmos.css"
